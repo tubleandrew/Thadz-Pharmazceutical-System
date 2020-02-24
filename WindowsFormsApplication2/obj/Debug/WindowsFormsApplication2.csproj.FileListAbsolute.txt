@@ -1,0 +1,106 @@
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1.accdb
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1.accdb
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Andrew\Desktop\BAGONG SYSTEM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1.accdb
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1.accdb
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet.Designer.cs
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet1.Designer.cs
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet.xsc
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet.xsd
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet.xss
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet1.xsc
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet1.xsd
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet1.xss
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData.Designer.cs
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData1.Designer.cs
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData.xsc
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData.xsd
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData.xss
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData1.xsc
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData1.xsd
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData1.xss
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\App.config
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ChangeQuantityForm.resources
+C:\Users\Andrew\Desktop\SCHOOL APPS\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet.Designer.cs
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet1.Designer.cs
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet.xsc
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet.xsd
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet.xss
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet1.xsc
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet1.xsd
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1DataSet1.xss
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LoginNew1.accdb
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData.Designer.cs
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData1.Designer.cs
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData.xsc
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData.xsd
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData.xss
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData1.xsc
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData1.xsd
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AppData1.xss
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\App.config
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ChangeQuantityForm.resources
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\DESKTOP FILES\SCHOOL APPS\BAGONG SYSTEM\Addtocart\WAG KA LANG MAWAWALA\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
